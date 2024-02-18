@@ -31,9 +31,6 @@
 		"url": "https://github.com/Ethern-Myth/ensure-token/issues"
 	},
 	"homepage": "https://github.com/Ethern-Myth/ensure-token#readme",
-	"publishConfig": {
-		"@Ethern-Myth:registry": "https://npm.pkg.github.com"
-	},
 	"dependencies": {
 		"express": "^4.18.2",
 		"nodemon": "^3.0.3"
