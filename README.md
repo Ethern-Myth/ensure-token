@@ -7,6 +7,16 @@ A package for ensuring bearer token is available in the header of the HTTP Reque
 
 [![NPM](https://nodei.co/npm/ensure-token.png)](https://nodei.co/npm/ensure-token/)
 
+### Installation
+
+``` cmd
+ npm install ensure-token --save
+ OR
+ yarn add ensure-token
+ OR
+ pnpm install ensure-token
+```
+
 ### Usage
 
 javascript or typescript
