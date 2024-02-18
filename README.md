@@ -22,7 +22,7 @@ A package for ensuring bearer token is available in the header of the HTTP Reque
 javascript or typescript
 
 ``` javascript
- import { ensureToken } from 'ensureToken'; 
+ import { ensureToken } from 'ensure-token'; 
 ```
 
 Add the ensureToken in your route like this:
