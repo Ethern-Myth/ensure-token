@@ -33,9 +33,9 @@ app.get('/your-route', ensureToken, (req, res) => {
 })
 ```
 
-#### This will work on bearer tokens only for now. More Verifications will be added later
+#### This will work on bearer tokens only for now. More Verifications will be added later.
 
-### Don't forget to like this repo. If you have any questions feel free to ask
+### Don't forget to like this repo. If you have any questions feel free to ask!
 
 Created by  [Ethern Myth](http://www.github.com/ethern-myth)
 <br/>
