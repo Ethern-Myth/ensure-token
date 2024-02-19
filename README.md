@@ -37,7 +37,7 @@ app.get('/your-route', ensureToken, (req, res) => {
 
 ### Don't forget to like this repo. If you have any questions feel free to ask
 
-Created by  [Ethern-Myth](http://www.github.com/ethern-myth)
+Created by  [Ethern Myth](http://www.github.com/ethern-myth)
 <br/>
 
 Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license).
