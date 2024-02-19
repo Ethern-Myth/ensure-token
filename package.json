@@ -5,7 +5,7 @@
 	"files": [
 		"dist"
 	],
-	"version": "1.0.2",
+	"version": "1.0.5",
 	"description": "A package for ensuring bearer token is available in the header of the HTTP Request using Express",
 	"main": "index.ts",
 	"scripts": {
