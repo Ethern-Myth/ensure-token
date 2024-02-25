@@ -3,6 +3,8 @@
 
 A package for ensuring bearer token is available in the header of the HTTP Request using Express
 
+[![npm downloads](https://img.shields.io/npm/dm/ensure-token)](https://www.npmjs.com/package/ensure-token)
+
 <br/>
 
 [![NPM](https://nodei.co/npm/ensure-token.png)](https://nodei.co/npm/ensure-token/)
